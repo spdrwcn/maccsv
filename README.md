@@ -16,11 +16,11 @@
 
 ### 例如`key`为`BPB4BX3`，`value`为以上，则写入后的文件为以下：
 
-```
+
 |  SN   | wired_mac  | wireless_mac  | bluetooth_mac  |
 |  ----  | ----  | ----  | ----  |
 | BPB4BX3  | 04:BF:1B:65:ED:9A | 60:A5:E2:43:BE:44 | 60:A5:E2:43:BE:48 |
 
-```
+
 
 
