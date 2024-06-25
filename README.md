@@ -1,4 +1,4 @@
-![image](https://github.com/spdrwcn/maccsv/assets/157886909/4153122c-93ff-48c2-956e-bcd324f721b1)## macjson
+## maccsv
 
  - 从`redis`获取所有键值对并写入`csv`文件内
  - windows环境(I5 13450HX)下100万个键值对(159B)用时`6s`
